@@ -128,3 +128,7 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# ESLint config files
+.eslintrc.json
+eslint.config.mjs
